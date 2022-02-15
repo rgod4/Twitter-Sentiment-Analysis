@@ -25,6 +25,8 @@ Feature Extraction using count vectorizer in sklearn library.
 Split the data in ratio of 95:5%.Here, we trained our application over only 400 thousand tweets only where 200 thousand were positive and negative tweets.
 
 Training and Testing using Sklearn.
-Results:- 
+Results:-
+
 ![image](https://user-images.githubusercontent.com/84174934/154079646-87eb975b-db28-48f9-8b8b-8147938d5e83.png)
+
 ![image](https://user-images.githubusercontent.com/84174934/154079685-d3536670-aaa4-42dd-af91-a8d1403db3fa.png)
